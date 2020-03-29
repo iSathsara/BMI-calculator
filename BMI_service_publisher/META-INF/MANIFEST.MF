@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: BMI_service_publisher
+Bundle-SymbolicName: BMI_service_publisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: bmi_service_publisher.ServiceActivator
+Import-Package: org.osgi.framework;version="1.3.0"
+Export-Package: bmi_service_publisher
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+
+
+
